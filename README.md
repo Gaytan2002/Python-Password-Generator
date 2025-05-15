@@ -10,3 +10,5 @@ As an enhanced honors project for my Math class, I created a password generator 
 - **pyperclip** *(optional)* – Enables copying the generated password to the system clipboard  
 - **VS Code / IDLE / Jupyter Notebook** – Development environments used during coding and testing  
 - **Git & GitHub** – Version control and project hosting
+
+## 🐧 Digital Poster
