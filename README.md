@@ -12,3 +12,4 @@ As an enhanced honors project for my Math class, I created a password generator 
 - **Git & GitHub** – Version control and project hosting
 
 ## 🐧 Digital Poster
+![1A4A7641-4A50-458C-ADEB-630062C7DD33](https://github.com/user-attachments/assets/3bcb204a-1cb9-42aa-a32e-2aeb628e25eb)
